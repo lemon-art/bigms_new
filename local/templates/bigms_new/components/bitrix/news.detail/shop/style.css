@@ -1,0 +1,82 @@
+
+.owl-dots {
+    display: inline-flex;
+    position: absolute;
+    margin-top: -31px !important;
+    left: 35% !important;
+    margin-left: -25% !important;
+}
+
+
+div.news-detail
+{
+	word-wrap: break-word;
+	font-family: 'Museo500', sans-serif, Arial;
+	line-height: 30px;
+}
+div.news-detail img.detail_picture
+{
+	float:left;
+	margin:0 8px 6px 1px;
+}
+.news-date-time
+{
+	color:#486DAA;
+}
+
+.owl-nav {
+	position: relative;
+}
+
+.owl-prev img{
+
+	width: 25px;
+    margin-top: 10px;	
+
+}
+
+.owl-next {
+
+	position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.owl-next img{
+
+	width: 25px;
+    margin-top: 10px;	
+
+}
+
+.office_data {
+    display: block;
+    width: 550px;
+    padding-right: 50px;
+    padding-top: 0;
+    margin: 0;
+    float: left;
+}
+
+.office_img {
+    display: block;
+    width: 500px !important;
+    float: right;
+    height: 450px;
+}
+
+.office_img .item{
+	width: 500px;
+	height: 450px;
+}
+
+.shop_table {
+	display: table;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.office_data .item {
+	height: 50px;
+	margin-top: 20px;
+}
